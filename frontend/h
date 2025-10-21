@@ -1,0 +1,8 @@
+[33m009d24e8[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{0}: commit: Refatora: Move lógica de busca e estado de PokemonCard para Pokedex
+[33m89533ec1[m HEAD@{1}: Branch: renamed refs/heads/temp-main to refs/heads/main
+[33m89533ec1[m HEAD@{3}: reset: moving to 89533ec176f59510aa0dfa4fa958c9c681f884d6
+[33m89533ec1[m HEAD@{4}: checkout: moving from main to temp-main
+[33m89533ec1[m HEAD@{5}: pull --rebase origin main (finish): returning to refs/heads/main
+[33m89533ec1[m HEAD@{6}: pull --rebase origin main (start): checkout 89533ec176f59510aa0dfa4fa958c9c681f884d6
+[33m2cd05bdc[m HEAD@{7}: Branch: renamed refs/heads/master to refs/heads/main
+[33m2cd05bdc[m HEAD@{9}: commit (initial): Mudança de logica de componente pai passada para pokedex e correcao em app.js
